@@ -1,4 +1,4 @@
-# Movies - macOS
+# Movies - iOS
 Movie is my implementation for an iOS app to show movies.
 
 ## Description
